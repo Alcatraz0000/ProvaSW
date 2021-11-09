@@ -16,8 +16,9 @@ public class ProvaSW {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hello Fisciano!");
         System.out.println("Hello Word!");
+        System.out.println("Hello Universe!");
     }
-    
-    
+
 }
