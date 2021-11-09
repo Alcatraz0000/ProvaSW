@@ -39,6 +39,7 @@ public class ProvaSW {
         System.out.println("5");
 
         printHello("Mario");
+        printHello("Alfredo");
 
     }
 
