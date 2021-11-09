@@ -11,9 +11,13 @@ package provasw;
  */
 public class ProvaSW {
 
-    public static void print(int topPrint) {
+    public static void printNumber(int topPrint) {
         System.out.println("the value to print is " + topPrint);
 
+    }
+
+    public static void printHello(String name) {
+        System.out.println("Hello " + name + ". How are u?");
     }
 
     /**
@@ -26,13 +30,17 @@ public class ProvaSW {
         System.out.println("Hello Universe!");
 
         System.out.println("Programma rotto!");
-        print(3);
-        print(5);
-        print(4);
+        printNumber(3);
+        printNumber(5);
+        printNumber(4);
 
         System.out.println("3");
         System.out.println("4");
         System.out.println("5");
+
+        printHello("Mario");
+        printHello("Alfredo");
+        printHello("Armadino");
 
     }
 
