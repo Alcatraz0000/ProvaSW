@@ -40,6 +40,7 @@ public class ProvaSW {
 
         printHello("Mario");
         printHello("Alfredo");
+        printHello("Armadino");
 
     }
 
