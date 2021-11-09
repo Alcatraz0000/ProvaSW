@@ -21,6 +21,13 @@ public class ProvaSW {
         System.out.println("Hello Universe!");
 
         System.out.println("Programma rotto!");
+        
+        
+        System.out.println("3");
+        System.out.println("4");
+        System.out.println("5");
+        
+        
 
     }
 
