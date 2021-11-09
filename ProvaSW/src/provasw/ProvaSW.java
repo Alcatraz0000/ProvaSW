@@ -11,6 +11,11 @@ package provasw;
  */
 public class ProvaSW {
 
+    public static void print(int topPrint) {
+        System.out.println("the value to print is " + topPrint);
+
+    }
+
     /**
      * @param args the command line arguments
      */
@@ -21,6 +26,9 @@ public class ProvaSW {
         System.out.println("Hello Universe!");
 
         System.out.println("Programma rotto!");
+        print(3);
+        print(5);
+        print(4);
 
     }
 
